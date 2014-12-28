@@ -76,7 +76,7 @@ gulp.task('default', ['css', 'watch', 'connect'], function() {
   //Now open in browser
   var stream = gulp.src("index.html")
       .pipe(openPage("", {
-        app: "Mozilla Firefox",
+        app: "Google Chrome",
         url: "http://localhost:8000"
       }));
 
