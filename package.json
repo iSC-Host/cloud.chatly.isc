@@ -1,26 +1,28 @@
 {
-  "name": "cloud-chat",
-  "version": "0.0.0",
-  "description": "Chat Demo with Firebase",
+  "name": "cloud.chatly.isc",
+  "version": "1.0.0",
+  "description": "Cloud Chat App with Firebase",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/cloud-chat.git"
+    "url": "https://github.com/iSC-Host/cloud.chatly.isc.git"
   },
   "keywords": [
+    "Chatly",
+    "Cloud Chat App",
     "Firebase",
     "Chat",
-    "Demo"
+    "Cloud"
   ],
-  "author": "Alex Wolfe, Firebase Inc.",
+  "author": "Suriyaa Kudo, Chatly (iSC Group) & Alex Wolfe, Firebase Inc. (Google)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/firebase/cloud-chat/issues"
+    "url": "https://github.com/iSC-Host/cloud.chatly.isc/issues"
   },
-  "homepage": "https://github.com/firebase/cloud-chat",
+  "homepage": "https://github.com/iSC-Host/cloud.chatly.isc",
   "devDependencies": {
     "gulp": "^3.8.9",
     "gulp-autoprefixer": "^1.0.1",
